@@ -307,22 +307,15 @@ font-weight: bold;
 .main-container-for-white-blue-container{
     width: 32%;
     height: auto;
-    background-color
-    
-    
+    background-color  
 }
 
 .last-number-container{
     padding: 1rem;
-    color: blue
+    color:blue;
     font-weight: bolder;
     font-size: medium;
 }
-
-   
-    
-
-
 
 .white-view-all-main-container{
     width: 100%;
@@ -448,12 +441,7 @@ cursor: pointer;
      
  }
 
-/*  width: fit-content;
-    height: auto;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    text-align: baseline; */
+
 .lindsay-second-row-container{
     width: 100%;
     height: auto;
@@ -543,85 +531,3 @@ cursor: pointer;
 
 } 
 
-@media screen and (max-width:1200px){
-    .left-menu-container{
-        color: aqua;
-        display: none;
-    }
-       
-    .left-meun-container-section {
-
-        width: 100%; 
-
-    }
-
-    .menu-toggle{
-        font
-
-    }
- /* continue write the menu toggle of how to display in tablet and mobile and also check html last element at the left side menu section and watch video of how to do it */
-    /* .menu-toggle { 
-        font-size: 24px;
-        cursor: pointer; */
-        /* padding: 10px;
-        background-color: #fff; /* Set background color to match your design */
-        /* position: fixed;
-        top: 10px;
-        left: 10px;
-        z-index: 999;
-    } */ */ */
- /* */
-    /* .left-menu-container {
-        width: 100%; /* Full width on smaller screens */
-        /* height: auto;
-        /* display: none; /* Hide the menu by default on smaller screens */
-        background-color: white;
-    /* } */
-    /* ... other existing styles ... */
-/* } */ */ */
- */ */
-
-
-
-    }
-    
-
-    /* @media only screen and (min-width: 768px) {
-        .left-menu-container {
-            display: none; /* Hide the menu by default on larger screens */
-        /* }
-    
-        .menu-toggle {
-            display: none; /* Hide the toggle button on larger screens */
-        /* }
-    }
-    
-    @media only screen and (max-width: 768px) {
-        .left-meun-container-section {
-            width: 100%; /* Full width on smaller screens */
-        /* }
-     */ */
-        /* .menu-toggle {
-            font-size: 24px;
-            cursor: pointer; */
-            /* padding: 10px;
-            background-color: #fff; /* Set background color to match your design */
-            /* position: fixed;
-            top: 10px;
-            left: 10px;
-            z-index: 999;
-        } */ */ */
-     /* */
-        /* .left-menu-container {
-            width: 100%; /* Full width on smaller screens */
-            /* height: auto;
-            /* display: none; /* Hide the menu by default on smaller screens */
-            background-color: white;
-        /* } */
-        /* ... other existing styles ... */
-    /* } */ */ */
-     */ */
-
-
-     
- 
